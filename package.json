@@ -1,0 +1,19 @@
+{
+  "name": "session-4",
+  "version": "1.0.0",
+  "description": "''\u001b[DARI's'\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Umair",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
